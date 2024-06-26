@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  
 
 # Creating a 2D array
 array_2d = np.array([[1, 2, 3], [4, 5, 6]])
