@@ -5,7 +5,7 @@ class Myself:
         self.address = address
 
 
-
+  
 class Activities(Myself):
     def __init__(self, name, age, address, uni_name, favourite_game):
         super().__init__(name, age, address)
