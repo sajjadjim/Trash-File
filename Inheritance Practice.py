@@ -8,7 +8,7 @@ class Myself:
   
 class Activities(Myself):
     def __init__(self, name, age, address, uni_name, favourite_game):
-        super().__init__(name, age, address)
+        super().__init__(name, age, address) 
         self.uni_name = uni_name
         self.favourite_game = favourite_game
         def details_info_myself(self):
