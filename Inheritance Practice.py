@@ -4,7 +4,7 @@ class Myself:
         self.age = age
         self.address = address
 
-
+  
   
 class Activities(Myself):
     def __init__(self, name, age, address, uni_name, favourite_game):
