@@ -16,7 +16,7 @@ class Activities(Myself):
         print(f"University Name: {uni_name}\nFavourite Sport: {favourite_game}")
 
     def feedback(self):
-        print("He is a university student")
+        print("He is a university student")  
 
 person1 = Activities("JIM", 24, "Ashulia Dhaka", "Daffodil International University", "Cricket")
 person1.feedback()
