@@ -10,7 +10,7 @@ class Activities(Myself):
     def __init__(self, name, age, address, uni_name, favourite_game):
         super().__init__(name, age, address) 
         self.uni_name = uni_name
-        self.favourite_game = favourite_game
+        self.favourite_game = favourite_game 
         def details_info_myself(self):
             print(f"My name is {self.name}\nAge: {self.age}\nAddress: {self.address}")
         print(f"University Name: {uni_name}\nFavourite Sport: {favourite_game}")
