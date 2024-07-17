@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 # Create a 4x3 matrix
 matrix = np.zeros((4, 3))
