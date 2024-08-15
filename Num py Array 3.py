@@ -9,7 +9,7 @@ print(f"Number ->> {num2}")
 # Add num and num2 (note: they need to be the same shape for element-wise addition)
 # For this example, let's only use the first four elements of num to match num2's shape
 print("Addition result ->", np.add(num[:4], num2))
-
+ 
 # Multiply num by 5
 print("Multiplication result ->", np.multiply(num, 5))
 
