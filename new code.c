@@ -64,6 +64,7 @@ int main() {
 
     while (1) {
         printf("\nContact Management System\n");
+        printf("My name is jim");
         printf("1. Add Contact\n");
         printf("2. Display Contacts\n");
         printf("3. Search Contact\n");
