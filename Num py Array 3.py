@@ -1,4 +1,4 @@
-import numpy as np    
+import numpy as np     
 # Define the arrays
 num = np.array([1, 2, 3, 4, 5, 6])
 print(f"Matrix ->\n {num}")
